@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @Farrellh999
+- 👋 Hi, I’m Hannah
 - 👀 I’m interested in improving processes to help organisations to maximise outcomes from limited resources.
 - 🌱 I’m currently learning all things data science!
 - 😄 Pronouns: She/Her/Queen/Lady/They/Them
